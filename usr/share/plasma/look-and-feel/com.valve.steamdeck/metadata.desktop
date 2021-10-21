@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=SteamOS
+Comment=SteamOS Look And Feel
+Encoding=UTF-8
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=David Edmundson
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=david@davidedmundson.co.uk
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=com.valve.steamdeck
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=
+X-Plasma-MainScript=defaults
