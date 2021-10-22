@@ -1,2 +1,6 @@
 [KDE]
 LookAndFeelPackage=com.valve.steamdeck
+
+[KDE Action Restrictions][$i]
+action/switch_user=false
+action/start_new_session=false
