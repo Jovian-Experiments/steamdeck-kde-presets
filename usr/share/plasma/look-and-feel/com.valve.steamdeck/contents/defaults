@@ -6,3 +6,10 @@ ColorScheme=BreezeDark
 
 [kdeglobals][Icons]
 Theme=breeze-dark
+
+[kwinrc][Plugins]
+overviewEnabled=true
+
+[kwinrc][Effect-Overview]
+TouchBorderActivate=2
+
