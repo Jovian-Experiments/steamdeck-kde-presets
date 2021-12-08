@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Maximize On Deck Screen
+Comment=Maximize windows on the Steam Deck main screen.
+Icon=preferences-system-windows-script-test
+
+Type=Service
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+X-KWin-Border-Activate=false
+X-KDE-PluginInfo-Author=Arjen Hiemstra
+X-KDE-PluginInfo-Email=ahiemstra@heimr.nl
+X-KDE-PluginInfo-Name=maximizedeck
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script
+X-KDE-PluginKeyword=maximizedeck
