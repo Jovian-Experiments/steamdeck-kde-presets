@@ -1,5 +1,5 @@
 [KDE]
-LookAndFeelPackage=com.valve.steamdeck
+LookAndFeelPackage=com.valve.vapor.desktop
 
 [KDE Action Restrictions][$i]
 action/switch_user=false
