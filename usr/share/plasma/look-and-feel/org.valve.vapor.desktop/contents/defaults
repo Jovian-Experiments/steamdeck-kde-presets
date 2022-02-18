@@ -8,7 +8,7 @@ ColorScheme=Vapor
 Theme=breeze-dark
 
 [plasmarc][Theme]
-name=breeze-dark
+name=Vapor
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
