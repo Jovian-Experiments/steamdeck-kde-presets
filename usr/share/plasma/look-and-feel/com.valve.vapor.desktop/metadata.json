@@ -8,7 +8,7 @@
         ],
         "Category": "",
         "Description": "Vapor - SteamOS theme variant of KDE BreezeDark",
-        "Id": "org.valve.vapor.desktop",
+        "Id": "com.valve.vapor.desktop",
         "License": "GPLv2+",
         "Name": "Vapor",
         "ServiceTypes": [
