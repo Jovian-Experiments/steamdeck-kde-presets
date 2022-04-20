@@ -2,7 +2,7 @@
 icon=battery-charging
 
 [AC][DPMSControl]
-idleTime=60
+idleTime=600
 lockBeforeTurnOff=1
 
 [AC][DimDisplay]
